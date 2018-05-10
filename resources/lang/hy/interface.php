@@ -1,0 +1,25 @@
+<?php 
+ return 
+ array (
+  'from' => 'From',
+  'home' => 'տուն',
+  'to' => 'դեպի',
+  'all' => 'բոլորը',
+  'name' => 'անուն',
+  'address' => 'հասցե',
+  'mobileP' => 'Բջջային հեռախոս',
+  'homeP' => 'Home Phone',
+  'email' => 'Փոստի',
+  'company' => 'ընկերություն',
+  'images' => 'Նկարներ',
+  'contact' => 'Կապ',
+  'register' => 'Գրանցում Գրանցում',
+  'login' => 'լոգին',
+  'search' => 'որոնում',
+  'Transportation' => 'փոխադրում',
+  'Electronics' => 'Էլեկտրոնիկա',
+  'Computers_and_Internet' => 'Համակարգիչներ եւ ինտերնետ',
+  'Cars_for_Hire' => 'Ավտոմեքենաներ Վարձակալություն',
+  'my_account' => 'Իմ էջը',
+  'classifieds' => 'Ավելացնել հայտարարություն',
+); ?>
